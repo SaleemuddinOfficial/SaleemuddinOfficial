@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Saleemuddin+Khan+👋;Senior+Android+Developer+💻;Kotlin+%7C+Java+%7C+Jetpack+Compose+%7C+KMM+🚀;Welcome+to+my+GitHub+👨‍💻+✨&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=38BDF8&vCenter=true" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi%2C+I'm+Saleemuddin+Khan+%F0%9F%91%8B;Senior+Android+Developer+%F0%9F%92%BB;Kotlin+%7C+Java+%7C+Jetpack+Compose+%7C+KMM+%F0%9F%9A%80;Welcome+to+my+GitHub+%F0%9F%91%A8%F0%9F%92%BB+%E2%9C%A8&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=38BDF8&vCenter=true" alt="Typing SVG" />
 </p>
 
 ---

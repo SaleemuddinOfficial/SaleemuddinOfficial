@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm Saleemuddin Khan – Senior Android Developer
-
-I'm a Senior Android Developer with over **6 years** of experience building Android apps using **Kotlin**, **Java**, and **Jetpack Compose**. I love creating clean, fast, and user-friendly mobile apps. I'm also exploring **Kotlin Multiplatform (KMM)** to build shared codebases for Android and iOS.
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Saleemuddin+Khan👋;Senior+Android+Developer💻;Kotlin,+Jetpack+Compose,+KMM🚀;Welcome+to+my+GitHub+👨‍💻&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=38BDF8&vCenter=true" alt="Typing SVG" />
 
 ---
 
